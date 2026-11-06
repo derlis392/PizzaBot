@@ -1,0 +1,10 @@
+[
+  {
+    "nombre": "Combo familiar",
+    "descripcion": "2 pizzas grandes con 10% de descuento sobre las pizzas (no incluye extras)",
+    "codigo": "FAMILIAR10",
+    "min_pizzas": 2,
+    "descuento": 0.1,
+    "vigente": true
+  }
+]

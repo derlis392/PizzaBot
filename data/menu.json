@@ -1,0 +1,138 @@
+{
+  "aviso": "Todos los precios y productos son ficticios; demostración académica en MXN.",
+  "horario": "Lunes a domingo de 12:00 a 22:00 (simulado)",
+  "servicios": [
+    "recoger",
+    "domicilio"
+  ],
+  "entrega": {
+    "costo": 35,
+    "nota": "Servicio simulado; no se solicita domicilio real"
+  },
+  "pagos": "Pago simulado al recoger o contra entrega. No se procesan pagos.",
+  "tamanos": {
+    "chica": 0.75,
+    "mediana": 1,
+    "grande": 1.35
+  },
+  "productos": [
+    {
+      "id": "margarita",
+      "nombre": "Margarita",
+      "precio": 150,
+      "ingredientes": [
+        "salsa de tomate",
+        "mozzarella",
+        "albahaca"
+      ],
+      "vegetariana": true
+    },
+    {
+      "id": "pepperoni",
+      "nombre": "Pepperoni",
+      "precio": 175,
+      "ingredientes": [
+        "salsa de tomate",
+        "mozzarella",
+        "pepperoni"
+      ],
+      "vegetariana": false
+    },
+    {
+      "id": "hawaiana",
+      "nombre": "Hawaiana",
+      "precio": 185,
+      "ingredientes": [
+        "salsa de tomate",
+        "mozzarella",
+        "jamón",
+        "piña"
+      ],
+      "vegetariana": false
+    },
+    {
+      "id": "vegetariana",
+      "nombre": "Vegetariana",
+      "precio": 180,
+      "ingredientes": [
+        "salsa de tomate",
+        "mozzarella",
+        "pimiento",
+        "champiñones",
+        "cebolla"
+      ],
+      "vegetariana": true
+    },
+    {
+      "id": "mexicana",
+      "nombre": "Mexicana",
+      "precio": 195,
+      "ingredientes": [
+        "salsa de tomate",
+        "mozzarella",
+        "chorizo",
+        "jalapeño",
+        "cebolla"
+      ],
+      "vegetariana": false
+    },
+    {
+      "id": "infantil",
+      "nombre": "Mini queso (infantil)",
+      "precio": 95,
+      "ingredientes": [
+        "salsa de tomate",
+        "mozzarella"
+      ],
+      "vegetariana": true,
+      "infantil": true
+    }
+  ],
+  "bebidas": [
+    {
+      "id": "refresco",
+      "nombre": "Refresco",
+      "precio": 35
+    },
+    {
+      "id": "agua",
+      "nombre": "Agua",
+      "precio": 25
+    },
+    {
+      "id": "jugo",
+      "nombre": "Jugo",
+      "precio": 30
+    }
+  ],
+  "complementos": [
+    {
+      "id": "papas",
+      "nombre": "Papas",
+      "precio": 55
+    },
+    {
+      "id": "alitas",
+      "nombre": "Alitas",
+      "precio": 95
+    }
+  ],
+  "extras": [
+    {
+      "id": "queso extra",
+      "precio": 20
+    },
+    {
+      "id": "champiñones",
+      "precio": 15
+    },
+    {
+      "id": "jalapeño",
+      "precio": 12
+    },
+    {
+      "id": "piña",
+      "precio": 12
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "saludar": [
+    "hola",
+    "buenos dias",
+    "buenas tardes"
+  ],
+  "despedirse": [
+    "adios",
+    "hasta luego"
+  ],
+  "consultar_menu": [
+    "menu",
+    "carta",
+    "que pizzas tienen"
+  ],
+  "consultar_menu_infantil": [
+    "menu infantil",
+    "menu para niños"
+  ],
+  "consultar_precios": [
+    "precio",
+    "cuanto cuesta",
+    "cuanto vale"
+  ],
+  "consultar_ingredientes": [
+    "ingredientes",
+    "que lleva",
+    "contiene"
+  ],
+  "recomendar": [
+    "recomienda",
+    "sugiere",
+    "que me recomiendas",
+    "recomiendame",
+    "recomiendame una pizza"
+  ],
+  "consultar_promociones": [
+    "promociones",
+    "ofertas",
+    "descuentos"
+  ],
+  "iniciar_pedido": [
+    "quiero pedir",
+    "hacer pedido",
+    "ordenar"
+  ],
+  "agregar_producto": [
+    "agrega",
+    "añade",
+    "quiero una",
+    "quiero dos",
+    "ponme",
+    "dame"
+  ],
+  "modificar_pedido": [
+    "cambia",
+    "modifica",
+    "sustituye"
+  ],
+  "eliminar_producto": [
+    "elimina",
+    "quita",
+    "borra"
+  ],
+  "consultar_carrito": [
+    "carrito",
+    "mi pedido",
+    "ver pedido",
+    "resumen"
+  ],
+  "confirmar_pedido": [
+    "confirmar pedido",
+    "confirmo",
+    "confirmar",
+    "si confirmo"
+  ],
+  "cancelar_pedido": [
+    "cancelar pedido",
+    "cancela todo"
+  ],
+  "consultar_horario": [
+    "horario",
+    "a que hora abren"
+  ],
+  "consultar_domicilio": [
+    "domicilio",
+    "envio",
+    "entrega"
+  ],
+  "consultar_pago": [
+    "pago",
+    "tarjeta",
+    "efectivo"
+  ],
+  "ayuda": [
+    "ayuda",
+    "que puedes hacer"
+  ],
+  "agradecer": [
+    "gracias",
+    "muchas gracias"
+  ]
+}
